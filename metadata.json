@@ -1,0 +1,5 @@
+{
+  "name": "College Event Management System",
+  "description": "A web application for managing college events. Students can browse and register for events, while administrators can manage events and student registrations.",
+  "requestFramePermissions": []
+}
